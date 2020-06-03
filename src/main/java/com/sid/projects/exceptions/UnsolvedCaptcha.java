@@ -1,4 +1,4 @@
-package com.sid.projects.torn.exceptions;
+package com.sid.projects.exceptions;
 
 public class UnsolvedCaptcha extends Exception
 {

@@ -4,40 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.sid.projects.torn</groupId>
-    <artifactId>captcha-breaker</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>com.sid.projects</groupId>
+    <artifactId>captcha-cracker</artifactId>
+    <version>1.3.1-SNAPSHOT</version>
 
     <dependencies>
-        <dependency>
-            <groupId>com.teamdev.jxbrowser</groupId>
-            <artifactId>jxbrowser-win64</artifactId>
-            <version>6.24</version>
-        </dependency>
-        <dependency>
-            <groupId>com.sid.projects</groupId>
-            <artifactId>snek-browser</artifactId>
-            <version>1.1</version>
-        </dependency>
         <dependency>
             <groupId>com.DeathByCaptcha</groupId>
             <artifactId>DeathByCaptcha</artifactId>
             <version>4.6.2</version>
-        </dependency>
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-controls</artifactId>
-            <version>13</version>
-        </dependency>
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-fxml</artifactId>
-            <version>13</version>
-        </dependency>
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-swing</artifactId>
-            <version>13</version>
         </dependency>
     </dependencies>
 
